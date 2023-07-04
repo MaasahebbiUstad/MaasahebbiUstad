@@ -1,7 +1,7 @@
 # Maasahebbi_Ustad
 <div id="header" align="center">
 
-  <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/16143775-c52d-47c1-9bb0-95764ba56f02" width="500"/>
+  <img src="https://github.com/ustadmaas/Maasahebbi_Ustad/assets/112754746/16143775-c52d-47c1-9bb0-95764ba56f02" width="500"/>
 </div>
 
 
@@ -59,7 +59,7 @@
  <p align="center" dir="auto">
   
   <a href="http://www.github.com/yasmeenustad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenustad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-   <a href="http://www.github.com/yasmeenustad"><img src="https://github-readme-stats.vercel.app/api?username=yasmeenustad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yasmeen Ustad's GitHub stats" /></a>
+   <a href="https://github.com/ustadmaas"><img src="https://github-readme-stats.vercel.app/api?username=ustadmass&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Maasahebbi Ustad's GitHub stats" /></a>
    
 <a href="https://github.com/yasmeenustad"><img src="https://activity-graph.herokuapp.com/graph?username=yasmeenustad&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  </p>
