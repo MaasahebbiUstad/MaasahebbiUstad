@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/13b6b549-ea79-4749-be07-e8971faf2ca6" width="500"/>
+  <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/7e6c6d9c-a4cb-48df-9299-128e073d8a2c" width="300"/>
 </div>
 
 
