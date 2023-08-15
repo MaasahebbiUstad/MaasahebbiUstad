@@ -6,7 +6,7 @@
 
 <h1 align = "center">
   Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Maasahebbi Ustad!
+  <img src="https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_qD1j5lwJe.UFzg*ccid_PWPmXAl7&form=ANCMS1&iss=SBIUPLOADGET&selectedindex=1&id=AE428283475D2439F534B163CBB704143D57A9DC&ccid=BwgF7uk4&exph=674&expw=768&vt=2&sim=1&simid=608054072707855927&ck=53DF6F20186C431AF7C6385B6A430215&thid=OIP.BwgF7uk4mh-HAvMJPKHAuwHaGf&mediaurl=https%3A%2F%2Fseizetheads.com%2Fwp-content%2Fuploads%2F2021%2F09%2F14-1-768x674.png" width="30px"/> I'm Maasahebbi Ustad!
 </h1>
 
 <h3  align = "center">
