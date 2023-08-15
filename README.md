@@ -6,7 +6,7 @@
 
 <h1 align = "center">
   Hi
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> I'm Maasahebbi Ustad!
+  <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/73b0ee41-9e88-4d01-a38a-e00f70417e86" width="30px"/> I'm Maasahebbi Ustad!
 </h1>
 
 <h3  align = "center">
