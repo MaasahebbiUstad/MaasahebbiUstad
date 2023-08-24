@@ -1,9 +1,6 @@
 <div id="header" align="center">
-
-  <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/7e6c6d9c-a4cb-48df-9299-128e073d8a2c" width="400"/>
+  <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/64bbb8ea-849c-4670-9647-b20af6074f5f" height="600" width="800"/>
 </div>
-
-
 <h1 align = "center">
   Hi
   <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/73b0ee41-9e88-4d01-a38a-e00f70417e86" width="30px"/> I'm Maasahebbi Ustad!
