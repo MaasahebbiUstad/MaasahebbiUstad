@@ -35,9 +35,9 @@
  <h2 dir="auto"><a id="user-content--languages--tools" class="anchor" href="#-languages--tools" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966"><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" style="max-width: 100%;"></a> <strong>Languages &amp; Tools:</strong></h2>
  
  <p align="center" dir="auto">
-    <img src="https://github.com/user-attachments/assets/e1c14bad-19b0-471d-abe6-cd9f96877983" alt="excel icon" width="50" style="margin-right: 10px;"/>
-    <img src="https://github.com/user-attachments/assets/b15e6d0e-5979-456b-a355-86c0ee157771" alt="Image 1" width="50" style="margin-right: 10px;"/>
-    <img src="https://github.com/user-attachments/assets/f5a0581f-93be-4b62-8059-09c52e252b72" alt="Image 2" width="50" height="50" style="margin-right: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/e1c14bad-19b0-471d-abe6-cd9f96877983" alt="excel icon" width="50" style="margin-right: 20px;"/>
+    <img src="https://github.com/user-attachments/assets/b15e6d0e-5979-456b-a355-86c0ee157771" alt="Image 1" width="50" style="margin-right: 20px;"/>
+    <img src="https://github.com/user-attachments/assets/f5a0581f-93be-4b62-8059-09c52e252b72" alt="Image 2" width="50" height="50" style="margin-right: 20px;"/>
     <img src="https://github.com/user-attachments/assets/df83b916-66f4-4ccb-a432-5ef64a9c44be" alt="Image 3" width="50"/>
 </p>
  
