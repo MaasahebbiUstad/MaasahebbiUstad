@@ -38,7 +38,7 @@
  <p align="center" dir="auto">  
     <img src="https://github.com/user-attachments/assets/e1c14bad-19b0-471d-abe6-cd9f96877983" alt="excel icon" width="50"/>" 
     <<img src="https://github.com/user-attachments/assets/b15e6d0e-5979-456b-a355-86c0ee157771" alt="Image 1" width="50"/>
-    <img src="https://github.com/user-attachments/assets/f5a0581f-93be-4b62-8059-09c52e252b72" alt="Image 2" width="50" height="70"/>
+    <img src="https://github.com/user-attachments/assets/f5a0581f-93be-4b62-8059-09c52e252b72" alt="Image 2" width="50" height="60"/>
     <img src="https://github.com/user-attachments/assets/df83b916-66f4-4ccb-a432-5ef64a9c44be" alt="Image 3" width="50"/>
     <img src="https://camo.githubusercontent.com/149029be5d632d26129278083a0e1f965fe112b27bb184c0d851a943816a7ee5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f35302f3030303030302f6d7973716c2d6c6f676f2e706e67"  
      
