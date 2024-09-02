@@ -37,7 +37,7 @@
  <p align="center" dir="auto">
     <img src="https://github.com/user-attachments/assets/e1c14bad-19b0-471d-abe6-cd9f96877983" alt="excel icon" width="50"/>
     &nbsp;
-    <img src="https://github.com/user-attachments/assets/582e6d51-6a60-4a8c-b381-84f53af6fa69" alt="icons8-power-bi-48" width="50" height="50"/>
+    <img src="https://github.com/user-attachments/assets/582e6d51-6a60-4a8c-b381-84f53af6fa69" alt="icons8-power-bi-48" width="50" height="70"/>
     &nbsp;
     <img src="https://github.com/user-attachments/assets/b15e6d0e-5979-456b-a355-86c0ee157771" alt="Image 1" width="50"/>
     &nbsp;
