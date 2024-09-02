@@ -7,7 +7,7 @@
 </h1>
 
 <h3  align = "center">
- <b>An enthusiastic Data Analyst skilled in data manipulation and insight generation, with experience in migrating Tableau to Power BI, writing DAX functions, and creating impactful dashboards during a Business Intelligence internship.</b>
+ <b>An enthusiastic Data Analyst skilled in data manipulation and insight generation, with experience in migrating Tableau reports to Power BI, writing DAX functions, and creating impactful dashboards during a Business Intelligence internship.</b>
 </h3>
 
   <h2>
