@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/64bbb8ea-849c-4670-9647-b20af6074f5f" height="500" width="800"/>
+  <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/64bbb8ea-849c-4670-9647-b20af6074f5f" height="300" width="800"/>
 </div>
 <h1 align = "center">
   Hi
