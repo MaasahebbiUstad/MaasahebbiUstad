@@ -45,7 +45,7 @@
     &nbsp;
     <img src="https://github.com/user-attachments/assets/582e6d51-6a60-4a8c-b381-84f53af6fa69" alt="icons8-power-bi-48" width="50"/>
     &nbsp;
-    <img src="https://github.com/user-attachments/assets/47985e6b-a822-4797-8fb4-df68d703b46a" alt="pandas" width="50"/>
+    <img src="https://github.com/user-attachments/assets/47985e6b-a822-4797-8fb4-df68d703b46a" alt="pandas" width="50" height="50"/>
 </p>
 
 <br>
