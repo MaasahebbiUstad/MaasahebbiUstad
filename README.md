@@ -29,7 +29,7 @@
         <a href="https://www.linkedin.com/in/maasahebbi-ustad-740213227/" rel="nofollow">
             <img align="center" src="https://github.com/user-attachments/assets/faf47402-08f5-4ed0-bedb-ab01564ceeed" alt="LinkedIn" height="30" width="30" style="max-width: 100%;">
         </a>
-    </strong>.
+    </strong>
 
  </p>
  
