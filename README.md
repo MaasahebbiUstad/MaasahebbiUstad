@@ -94,8 +94,7 @@ src="https://github.com/user-attachments/assets/b8659569-d2f4-4c3b-8cbb-bbf26a8e
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/maasahebbi-ustad-740213227/" rel="nofollow">
         <img src="https://github.com/user-attachments/assets/faf47402-08f5-4ed0-bedb-ab01564ceeed" alt="LinkedIn" height="40" width="40" style="max-width: 100%;">
-   
-    </a>
+   </a>
     &nbsp;&nbsp;
     <a href="https://www.hackerrank.com/m_mustad01?hr_r=1" rel="nofollow">
         <img src="https://github.com/user-attachments/assets/98f4806b-2964-4e3e-89bb-fd14983de346" alt="HackerRank" height="40" width="40" style="max-width: 100%;">
