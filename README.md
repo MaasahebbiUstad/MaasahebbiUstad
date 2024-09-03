@@ -26,6 +26,29 @@
  - :thinking: Passionate to draw meaningful insights from the data.
  
  - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/maasahebbi-ustad-740213227/" rel="nofollow" >LinkedIn</a></strong>.
+ - <p dir="auto">
+    <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
+        <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
+    </g-emoji>
+    All of my projects are available at 
+    <a href="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad?tab=repositories">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Maasahebbi_Ustad" height="30" width="40" style="max-width: 100%;">
+    </a>
+</p>
+
+<p dir="auto">
+    :thinking: Passionate to draw meaningful insights from the data.
+</p>
+
+<p dir="auto">
+    :mailbox: Contact me through 
+    <strong>
+        <a href="https://www.linkedin.com/in/maasahebbi-ustad-740213227/" rel="nofollow">
+            <img align="center" src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" height="30" width="40" style="max-width: 100%;">
+        </a>
+    </strong>.
+</p>
+
  
  
  
