@@ -27,18 +27,16 @@
  
  - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/maasahebbi-ustad-740213227/" rel="nofollow" >LinkedIn</a></strong>.
 
-</p>
 
-<p dir="auto">
-    :mailbox: Contact me through 
+
+:mailbox: Contact me through 
     <strong>
         <a href="https://www.linkedin.com/in/maasahebbi-ustad-740213227/" rel="nofollow">
-            <img align="center" src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" height="30" width="40" style="max-width: 100%;">
+            <img align="center" src="https://github.com/user-attachments/assets/faf47402-08f5-4ed0-bedb-ab01564ceeed" alt="LinkedIn" height="30" width="40" style="max-width: 100%;">
         </a>
     </strong>.
-</p>
 
- 
+ </p>
  
  
  <br>
